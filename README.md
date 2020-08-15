@@ -7,6 +7,8 @@ Here is an example of what the finished product of my Fakedex looks like: https:
 For some users, using the EXE will trigger responses from anti-virus programs due to how I converted the .py file into an .exe. I can assure you there isn't a virus, and you can run as many tests on it with online programs if you're worried. If you're still wary about using the EXE, then the only other method is to install python and the required libraries, both of which I won't detail here. Use Google!
 
 # Setting Up
+If you have any trouble with any of the steps, especially with steps 2 and 3, feel free to view my own spreadsheet as an example here: https://docs.google.com/spreadsheets/d/1_HaGh0U4GXMOpMDbTmB6zm9DqHrm2DHQWYVhaYdBZlY/edit#gid=0
+
 1. Open a Spreadsheet editor of your choice. I highly recommend Google Spreadsheets due to how versatile and lightweight it is.
 
 2. You should see an empty, gridded document. On the left side, you should see numbers going downwards. Go to Line 1, and add the following headers, in any order you want:
@@ -17,8 +19,6 @@ For some users, using the EXE will trigger responses from anti-virus programs du
 * Type2
 * Tag
 * Image
-
-If you set up the headers right, you should see column A with "N", column B with "Name", and so on.
 
 3. Fill out your sheet with your Fakemon. Each Fakemon represents a row. Here is what each one represents:
 * N: This is the Fakemon's Index Number. You can completely disregard adding anything here. If you don't want it to show up in the collage, add an "E".
@@ -34,7 +34,7 @@ If you set up the headers right, you should see column A with "N", column B with
 
 4. After you filled out your Fakedex, go to File -> Download -> Comma-Seperated Values (.csv) and save it somewhere.
 
-5. Run the CollageCreator.exe, (or the python file if you have knowledge in Python), and load up the CSV file. If it all works out, then you did it right. Congrats.
+5. Run the CollageCreator.exe, (or the python file if you have knowledge in Python), and load up the CSV file. If it all works out, then you did it right. Congrats. If the program crashes without any warning, then you messed up somewhere. I'd recommend re-reading the above steps.
 
 # Optional Stuff
 The collage creator comes with a folder called "Collage Files" that you can completely personalize your own collages. The things you can change are the following:
