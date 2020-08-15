@@ -22,7 +22,7 @@ If you have any trouble with any of the steps, especially with steps 2 and 3, fe
 
 3. Fill out your sheet with your Fakemon. Each Fakemon represents a row. Here is what each one represents:
 * N: This is the Fakemon's Index Number. You can completely disregard adding anything here. If you don't want it to show up in the collage, add an "E".
-* Name: The name of your Fakemon. Do not include the Form Name here!
+* Name: The name of your Fakemon. Do not include the Form Name here! Any Fakemon without a name will be ignored by the tool, so add a placeholder name.
 * FormName: The Fakemon's Form Name. For example, Mega Venusaur would have "Mega" here.
 * Tag: This one is the most important on getting the collage to look nice. A Tag represents which stage of evolution this Fakemon exists in. The following tags can be used:
   * 1: This Fakemon does not evolve.
@@ -38,7 +38,15 @@ If you have any trouble with any of the steps, especially with steps 2 and 3, fe
 
 # Optional Stuff
 The collage creator comes with a folder called "Collage Files" that you can completely personalize your own collages. The things you can change are the following:
-* logo.png: This can be any size and shape, (but preferably around the default example logo.png)
+* logo.png: This can be any size and shape, (but preferably around the default example logo.png). If you don't want a logo, just delete the file.
 * the "t" files: These should be self explanatory. These are the background type images that each Fakemon is placed on. These images must be 600x600 to work correctly, and Type 2 will always overlap Type 1.
 * nomon.png: This is what is displayed when no image is supplied or there is an error transcribing and image link.
 * font.tff: This is the font used for the names. As of now, there is no way to change the size of the font yet, so I recommend leaving this alone unless you find a font that somehow works at the same size.
+
+# Something Went Wrong!
+
+1. **All my images are missing!** - Make sure you're using direct image links. They should end with a file extension such as ".png" or ".jpg".
+1. **My evolutions are split up in different rows!** - Make sure you tag them correctly. View my example document to see how I did it.
+1. **Some Fakemon don't show up?** - Only Fakemon with names show up. Please add a temporary placeholder name.
+
+If your issue isn't listed here, or you absolutely can't figure out what you did wrong, feel free to open an issue.
