@@ -14,6 +14,7 @@ Here is an example of what the finished product of my Fakedex looks like: https:
 * Type2
 * Tag
 * Image
+
 If you set up the headers right, you should see column A with "N", column B with "Name", and so on.
 
 3. Fill out your sheet with your Fakemon. Each Fakemon represents a row. Here is what each one represents:
