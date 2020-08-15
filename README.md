@@ -3,6 +3,9 @@ This is a EXE, (with an included Python script that it was built from), that cre
 
 Here is an example of what the finished product of my Fakedex looks like: https://cdn.discordapp.com/attachments/470716268874563584/742941921126908054/204405709054410752.png
 
+# Disclaimer
+For some users, using the EXE will trigger responses from anti-virus programs due to how I converted the .py file into an .exe. I can assure you there isn't a virus, and you can run as many tests on it with online programs if you're worried. If you're still wary about using the EXE, then the only other method is to install python and the required libraries, both of which I won't detail here. Use Google!
+
 # Setting Up
 1. Open a Spreadsheet editor of your choice. I highly recommend Google Spreadsheets due to how versatile and lightweight it is.
 
